@@ -2,4 +2,4 @@
 Analisis Ejecutivo 
 Visualizacion rapida:
 ### Introduccion 
-["Exportaciones de granos de soja de Argentina, Uruguay, Paraguay](Captura 1.PNG)
+["Exportaciones de granos de soja de Argentina, Uruguay, Paraguay"](imagenes/Captura%201.PNG)
